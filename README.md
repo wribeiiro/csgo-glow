@@ -1,5 +1,7 @@
 # csgo-glow
-A python script for create glow cheat ;)
+🐍 A python script for create glow cheat. 
+
+⚠️ This script was created for ONLY study and by curiosity, use at your own risk.
 
 ### Install
 ```bash
